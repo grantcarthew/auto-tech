@@ -6,4 +6,7 @@ As I come across information related to automating a currently human dominated f
 
 ## 2017-01-27 - Initial Links
 
+https://www.technologyreview.com/s/603429/robotic-fabricator-could-change-the-way-buildings-are-constructed/
+
+http://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/
 
