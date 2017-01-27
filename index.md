@@ -4,6 +4,8 @@ This is a list of links related to automation across all industries.
 
 As I come across information related to automating a currently human dominated field I add the links of interest below in chronological order.
 
+[Who am I?](https://github.com/grantcarthew)
+
 ## 2017-01-27 - Initial Links
 
 *   [Tesla just revealed a new Autopilot system that will make its cars fully self-driving](http://www.businessinsider.com.au/tesla-announces-new-autopilot-self-driving-2016-10)
