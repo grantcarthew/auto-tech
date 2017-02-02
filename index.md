@@ -6,6 +6,10 @@ As I come across information related to automating a currently human dominated f
 
 [Who am I?](https://github.com/grantcarthew)
 
+## 2017-02-3
+
+*   [NASA's humanoid Robonaught set for work on Woodside Petroleum's WA projects](http://www.abc.net.au/news/2017-02-02/humanoid-robot-used-in-woodside-petroleum-wa-oil-gas-projects/8236508)
+
 ## 2017-01-27 - Initial Links
 
 *   [Tesla just revealed a new Autopilot system that will make its cars fully self-driving](http://www.businessinsider.com.au/tesla-announces-new-autopilot-self-driving-2016-10)
