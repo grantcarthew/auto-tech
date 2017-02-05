@@ -6,7 +6,11 @@ As I come across information related to automating a currently human dominated f
 
 [Who am I?](https://github.com/grantcarthew)
 
-## 2017-02-3
+## 2017-02-06
+
+[ELI5: Why is automaton suddenly a big deal? Hasn't it already been happening for a long time? What's different now?](https://www.reddit.com/r/explainlikeimfive/comments/5s5gfd/eli5_why_is_automaton_suddenly_a_big_deal_hasnt/)
+
+## 2017-02-03
 
 *   [NASA's humanoid Robonaught set for work on Woodside Petroleum's WA projects](http://www.abc.net.au/news/2017-02-02/humanoid-robot-used-in-woodside-petroleum-wa-oil-gas-projects/8236508)
 *   [RESEARCHERS BUILD FLU DETECTOR THAT CAN DIAGNOSE AT A BREATH, NO DOCTOR REQUIRED](http://www.digitaltrends.com/cool-tech/flu-breathalyzer/)
@@ -20,3 +24,6 @@ As I come across information related to automating a currently human dominated f
 *   [Deep learning algorithm does as well as dermatologists in identifying skin cancer](http://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/)
 *   [Basic income: a radical idea enters the mainstream](http://apo.org.au/node/70793)
 
+## The Video that Spurred My Interest
+
+[Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU) was published to YouTube in August of 2014. If you are sceptical that automation will cause upheaval, watch this.
