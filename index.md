@@ -9,6 +9,7 @@ As I come across information related to automating a currently human dominated f
 ## 2017-02-06
 
 *   [ELI5: Why is automaton suddenly a big deal? Hasn't it already been happening for a long time? What's different now?](https://www.reddit.com/r/explainlikeimfive/comments/5s5gfd/eli5_why_is_automaton_suddenly_a_big_deal_hasnt/)
+*   [What happens if Donald Trump's America starts producing everything at home?](http://www.abc.net.au/news/2017-02-06/ian-verrender-analysis-donald-trumps-america-first/8242878)
 
 ## 2017-02-03
 
