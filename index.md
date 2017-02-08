@@ -6,6 +6,10 @@ As I come across information related to automating a currently human dominated f
 
 [Who am I?](https://github.com/grantcarthew)
 
+## 2017-02-08
+
+*   [The founder of eBay is investing nearly $500,000 to test giving people free money](http://finance.yahoo.com/news/pierre-omidyar-of-ebay-is-investing-nearly-500000-to-test-universal-basic-income-165336410.html)
+
 ## 2017-02-06
 
 *   [ELI5: Why is automaton suddenly a big deal? Hasn't it already been happening for a long time? What's different now?](https://www.reddit.com/r/explainlikeimfive/comments/5s5gfd/eli5_why_is_automaton_suddenly_a_big_deal_hasnt/)
