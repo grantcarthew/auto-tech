@@ -41,4 +41,4 @@ As I come across information related to automating a currently human dominated f
 
 ## The Video that Spurred My Interest
 
-[Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU) was published to YouTube in August of 2014. If you are sceptical that automation will cause upheaval, watch this.
+[Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU) was published to YouTube in August of 2014. If you are sceptical that automation will cause upheaval, watch this. This link is also pinned to the top of this page.
