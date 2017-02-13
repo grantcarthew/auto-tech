@@ -2,9 +2,13 @@
 
 This is a list of links related to automation across all industries.
 
-As I come across information related to automating a currently human dominated field I add the links of interest below in chronological order.
+As I come across information related to automating a currently human dominated field I add the links of interest below in chronological order. I am also adding links related to [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income) which is the current approch to handle the loss of working class jobs.
 
 [Who am I?](https://github.com/grantcarthew)
+
+## 2017-02-11
+
+*   [The AI Threat Isn’t Skynet. It’s the End of the Middle Class](https://www.wired.com/2017/02/ai-threat-isnt-skynet-end-middle-class/)
 
 ## 2017-02-08
 
