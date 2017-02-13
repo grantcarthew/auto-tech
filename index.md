@@ -2,9 +2,14 @@
 
 This is a list of links related to automation across all industries.
 
-As I come across information related to automating a currently human dominated field I add the links of interest below in chronological order. I am also adding links related to [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income) which is the current approch to handle the loss of working class jobs.
+As I come across information related to automating a currently human dominated field I add the links of interest below in chronological order. I am also adding links related to [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income) which is the current approch to handle the loss of working class jobs due to automation.
 
 [Who am I?](https://github.com/grantcarthew)
+
+## 📌 Pinned Links
+
+*   [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+*   [Basic Income](http://basicincome.org/)
 
 ## 2017-02-11
 
