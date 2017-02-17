@@ -1,5 +1,4 @@
 <link href="/assets/css/custom.css" rel="stylesheet">
-
 # Automation Technology
 
 This is a list of links related to automation across all industries.
