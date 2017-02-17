@@ -11,6 +11,7 @@ As I come across information related to automating a currently human dominated f
 ## 2017-02-17
 
 *  [Navy Fighter Jets Release Swarming Perdix Micro-Drones](https://www.youtube.com/watch?v=0WNNanoUu2I)
+*  [Bill Gates: the robot that takes your job should pay taxes](https://www.youtube.com/watch?v=nccryZOcrUg)
 
 ## 2017-02-15
 
