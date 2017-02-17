@@ -10,6 +10,7 @@ As I come across information related to automating a currently human dominated f
 
 *   [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 *   [Basic Income European Network](http://basicincome.org/)
+*   [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 
 ## 2017-02-17
 
