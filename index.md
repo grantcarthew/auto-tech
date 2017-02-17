@@ -11,6 +11,10 @@ As I come across information related to automating a currently human dominated f
 *   [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 *   [Basic Income European Network](http://basicincome.org/)
 
+## 2017-02-17
+
+*  [Navy Fighter Jets Release Swarming Perdix Micro-Drones](https://www.youtube.com/watch?v=0WNNanoUu2I)
+
 ## 2017-02-15
 
 *   [Elon Musk says automation will make a universal basic income necessary soon](https://news.fastcompany.com/elon-musk-says-automation-will-make-a-universal-basic-income-necessary-soon-4030576)
