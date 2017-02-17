@@ -1,7 +1,3 @@
-<head>
-  <title>Automation Technology</title>
-  <link href="/custom.css" rel="stylesheet">
-</head>
 # Automation Technology
 
 This is a list of links related to automation across all industries.
