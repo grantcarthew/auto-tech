@@ -8,6 +8,10 @@ As I come across information related to automating a currently human dominated f
 *   [Basic Income European Network](http://basicincome.org/)
 *   [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 
+## 2017-02-19
+
+*   [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA)
+*   [GM said to be fielding thousands of self-driving test Bolts with Lyft in 2018](https://techcrunch.com/2017/02/17/gm-said-to-be-fielding-thousands-of-self-driving-test-bolts-with-lyft-in-2018/)
 ## 2017-02-17
 
 *  [Navy Fighter Jets Release Swarming Perdix Micro-Drones](https://www.youtube.com/watch?v=0WNNanoUu2I)
