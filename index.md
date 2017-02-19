@@ -47,7 +47,7 @@ As I come across information related to automating a currently human dominated f
 *   🌏[Fastbrick Robotics](http://fbr.com.au/)
 *   [Robotic Fabricator Could Change the Way Buildings Are Constructed](https://www.technologyreview.com/s/603429/robotic-fabricator-could-change-the-way-buildings-are-constructed/)
 *   📰[Deep learning algorithm does as well as dermatologists in identifying skin cancer](http://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/)
-*   [Basic income: a radical idea enters the mainstream](http://apo.org.au/node/70793)
+*   📰[Basic income: a radical idea enters the mainstream](http://apo.org.au/node/70793)
 
 ## The Video that Spurred My Interest
 
