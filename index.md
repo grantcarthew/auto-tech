@@ -8,6 +8,11 @@ As I come across information related to automating a currently human dominated f
 *   🌏 [Basic Income European Network](http://basicincome.org/)
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 
+## 2017-02-21
+
+*   📰 [What Happens When You Give Basic Income to the Poor? Canada Is About to Find Out](http://bigthink.com/natalie-shoemaker/canada-testing-a-system-where-it-gives-its-poorest-citizens-1320-a-month) [Discussion](https://www.reddit.com/r/BasicIncome/comments/5uz0ky/what_happens_when_you_give_basic_income_to_the/)
+*   😉 [Robots will replace our jobs forever](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
+
 ## 2017-02-19
 
 *   📺 [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA)
