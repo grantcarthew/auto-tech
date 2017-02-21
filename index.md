@@ -8,6 +8,10 @@ As I come across information related to automating a currently human dominated f
 *   🌏 [Basic Income European Network](http://basicincome.org/)
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 
+## 2017-02-22
+
+*   📰 [Tesla is now claiming 35% battery cost reduction at ‘Gigafactory 1’ – hinting at breakthrough cost below $125/kWh](https://electrek.co/2017/02/18/tesla-battery-cost-gigafactory-model-3/) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/5v9mp5/tesla_is_now_claiming_35_battery_cost_reduction/)
+
 ## 2017-02-21
 
 *   📰 [Mark Cuban: Robots will ‘cause unemployment and we need to prepare for it’](http://www.cnbc.com/2017/02/20/mark-cuban-robots-unemployment-and-we-need-to-prepare-for-it.html) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/5v43s6/mark_cuban_robots_will_cause_unemployment_and_we/)
