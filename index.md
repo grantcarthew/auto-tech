@@ -10,6 +10,7 @@ As I come across information related to automating a currently human dominated f
 
 ## 2017-02-21
 
+*   📰 [Mark Cuban: Robots will ‘cause unemployment and we need to prepare for it’](http://www.cnbc.com/2017/02/20/mark-cuban-robots-unemployment-and-we-need-to-prepare-for-it.html) - [Reddot Discussion](https://www.reddit.com/r/technology/comments/5v43s6/mark_cuban_robots_will_cause_unemployment_and_we/)
 *   📰 [What Happens When You Give Basic Income to the Poor? Canada Is About to Find Out](http://bigthink.com/natalie-shoemaker/canada-testing-a-system-where-it-gives-its-poorest-citizens-1320-a-month) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5uz0ky/what_happens_when_you_give_basic_income_to_the/)
 *   😉 [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
