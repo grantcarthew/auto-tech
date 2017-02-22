@@ -10,6 +10,9 @@ As I come across information related to automating a currently human dominated f
 
 ## 2017-02-22
 
+*   📰 [Texas Oil Fields Rebound From Price Lull, but Jobs Are Left Behind](https://www.nytimes.com/2017/02/19/business/energy-environment/oil-jobs-technology.html) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5vbgku/i_dont_see_a_future_says_oil_worker_replaced/)
+*   📰 [IBM’s Watson proves useful at fighting cancer—except in Texas](https://arstechnica.com/science/2017/02/ibms-watson-proves-useful-at-fighting-cancer-except-in-texas/) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/5vbpyj/ibms_watson_proves_useful_at_fighting/)
+*   📰 [The Future Is Here](https://twitter.com/thejsj/status/834231962072018944/photo/1)
 *   📰 [Tesla is now claiming 35% battery cost reduction at ‘Gigafactory 1’ – hinting at breakthrough cost below $125/kWh](https://electrek.co/2017/02/18/tesla-battery-cost-gigafactory-model-3/) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/5v9mp5/tesla_is_now_claiming_35_battery_cost_reduction/)
 
 ## 2017-02-21
