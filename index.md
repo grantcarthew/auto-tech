@@ -8,6 +8,10 @@ As I come across information related to automating a currently human dominated f
 *   🌏 [Basic Income European Network](http://basicincome.org/)
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 
+## 2017-02-24
+
+*   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
+
 ## 2017-02-22
 
 *   📰 [Texas Oil Fields Rebound From Price Lull, but Jobs Are Left Behind](https://www.nytimes.com/2017/02/19/business/energy-environment/oil-jobs-technology.html) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5vbgku/i_dont_see_a_future_says_oil_worker_replaced/)
