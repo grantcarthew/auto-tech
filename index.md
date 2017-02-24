@@ -12,6 +12,7 @@ As I come across information related to automating a currently human dominated f
 ## 2017-02-24
 
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
+*   📰 [DeepCoder builds programs using code it finds lying around](https://techcrunch.com/2017/02/23/deepcoder-builds-programs-using-code-it-finds-lying-around/)
 
 ## 2017-02-22
 
