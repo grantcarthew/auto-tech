@@ -9,6 +9,10 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-02-28
+
+*   📰 [UN Report: Robots Will Replace Two-Thirds of All Workers in the Developing World](https://futurism.com/un-report-robots-will-replace-two-thirds-of-all-workers-in-the-developing-world/) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/5weh65/un_report_robots_will_replace_twothirds_of_all/)
+
 ## 2017-02-24
 
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
