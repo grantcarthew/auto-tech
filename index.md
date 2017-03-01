@@ -9,13 +9,17 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-03-01
+
+*   📰⚠️️ [JPMorgan Software Does in Seconds What Took Lawyers 360,000 Hours](https://www.bloomberg.com/news/articles/2017-02-28/jpmorgan-marshals-an-army-of-developers-to-automate-high-finance) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5wpd3k/jpmorgan_software_does_in_seconds_what_took/)
+
 ## 2017-02-28
 
 *   📰 [UN Report: Robots Will Replace Two-Thirds of All Workers in the Developing World](https://futurism.com/un-report-robots-will-replace-two-thirds-of-all-workers-in-the-developing-world/) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/5weh65/un_report_robots_will_replace_twothirds_of_all/)
 
 ## 2017-02-24
 
-*   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
+*   📰⚠️️ [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 *   📰 [DeepCoder builds programs using code it finds lying around](https://techcrunch.com/2017/02/23/deepcoder-builds-programs-using-code-it-finds-lying-around/)
 
 ## 2017-02-22
