@@ -9,6 +9,10 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-03-05
+
+*   📰 [Building a Road Map for the Self-Driving Car](https://www.nytimes.com/2017/03/02/automobiles/wheels/self-driving-cars-gps-maps.html)
+
 ## 2017-03-01
 
 *   📰⚠️️ [JPMorgan Software Does in Seconds What Took Lawyers 360,000 Hours](https://www.bloomberg.com/news/articles/2017-02-28/jpmorgan-marshals-an-army-of-developers-to-automate-high-finance) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5wpd3k/jpmorgan_software_does_in_seconds_what_took/)
