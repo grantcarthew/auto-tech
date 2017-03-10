@@ -12,6 +12,7 @@ As I come across information related to automating a currently human dominated f
 ## 2017-03-05
 
 *   📰 [Building a Road Map for the Self-Driving Car](https://www.nytimes.com/2017/03/02/automobiles/wheels/self-driving-cars-gps-maps.html)
+*   📺 [Burger-flipping robot replaces humans on first day at work](http://www.telegraph.co.uk/technology/2017/03/09/genius-burger-flipping-robot-replaces-humans-first-day-work/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5yfxi7/burgerflipping_robot_replaces_humans_on_first_day/)
 
 ## 2017-03-01
 
