@@ -9,6 +9,11 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-03-17
+
+*   [Towards a lip-reading computer]() - [Reddit Discussion](https://www.reddit.com/r/technology/comments/5zwsjs/scientists_at_oxford_say_theyve_invented_an/)
+*   [Mincome - This radical plan to end poverty, by giving people money, is gaining fans in Canada](https://news.vice.com/story/a-radical-plan-to-end-poverty-is-gaining-momentum-in-canada) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5zvgvd/a_radical_plan_to_end_poverty_is_gaining_momentum/)
+
 ## 2017-03-13
 
 *   📰 [How to Upgrade Judges with Machine Learning](https://www.technologyreview.com/s/603763/how-to-upgrade-judges-with-machine-learning/) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/5ytdxx/ai_is_now_better_than_human_judges_at_predicting/)
