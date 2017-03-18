@@ -11,8 +11,8 @@ As I come across information related to automating a currently human dominated f
 
 ## 2017-03-17
 
-*   [Towards a lip-reading computer]() - [Reddit Discussion](https://www.reddit.com/r/technology/comments/5zwsjs/scientists_at_oxford_say_theyve_invented_an/)
-*   [Mincome - This radical plan to end poverty, by giving people money, is gaining fans in Canada](https://news.vice.com/story/a-radical-plan-to-end-poverty-is-gaining-momentum-in-canada) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5zvgvd/a_radical_plan_to_end_poverty_is_gaining_momentum/)
+*   📰 [Towards a lip-reading computer]() - [Reddit Discussion](https://www.reddit.com/r/technology/comments/5zwsjs/scientists_at_oxford_say_theyve_invented_an/)
+*   📰 [Mincome - This radical plan to end poverty, by giving people money, is gaining fans in Canada](https://news.vice.com/story/a-radical-plan-to-end-poverty-is-gaining-momentum-in-canada) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5zvgvd/a_radical_plan_to_end_poverty_is_gaining_momentum/)
 
 ## 2017-03-13
 
