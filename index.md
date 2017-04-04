@@ -9,6 +9,11 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-04-04
+
+*   [Detroit Is Stomping Silicon Valley in the Self-Driving Car Race](https://www.wired.com/2017/04/detroit-stomping-silicon-valley-self-driving-car-race/)
+*   [Jeb Bush warns robots taking US jobs is not science fiction](http://www.washingtonexaminer.com/jeb-bush-warns-robots-taking-us-jobs-is-not-science-fiction/article/2619145) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/632ivk/jeb_bush_warns_robots_taking_us_jobs_is_not/)
+
 ## 2017-03-17
 
 *   📰 [Towards a lip-reading computer]() - [Reddit Discussion](https://www.reddit.com/r/technology/comments/5zwsjs/scientists_at_oxford_say_theyve_invented_an/)
