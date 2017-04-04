@@ -11,8 +11,8 @@ As I come across information related to automating a currently human dominated f
 
 ## 2017-04-04
 
-*   [Detroit Is Stomping Silicon Valley in the Self-Driving Car Race](https://www.wired.com/2017/04/detroit-stomping-silicon-valley-self-driving-car-race/)
-*   [Jeb Bush warns robots taking US jobs is not science fiction](http://www.washingtonexaminer.com/jeb-bush-warns-robots-taking-us-jobs-is-not-science-fiction/article/2619145) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/632ivk/jeb_bush_warns_robots_taking_us_jobs_is_not/)
+*   📰 [Detroit Is Stomping Silicon Valley in the Self-Driving Car Race](https://www.wired.com/2017/04/detroit-stomping-silicon-valley-self-driving-car-race/)
+*   📰 [Jeb Bush warns robots taking US jobs is not science fiction](http://www.washingtonexaminer.com/jeb-bush-warns-robots-taking-us-jobs-is-not-science-fiction/article/2619145) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/632ivk/jeb_bush_warns_robots_taking_us_jobs_is_not/)
 
 ## 2017-03-17
 
