@@ -9,6 +9,10 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-04-07
+
+*   📰 [Universal Basic Income - An Inevitable Future?](http://www.interquestgroup.com/iq-hub/blogs/2017/universal-basic-income-an-inevitable-future) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/63s20r/universal_basic_income_an_inevitable_future/)
+
 ## 2017-04-04
 
 *   📰 [Detroit Is Stomping Silicon Valley in the Self-Driving Car Race](https://www.wired.com/2017/04/detroit-stomping-silicon-valley-self-driving-car-race/)
