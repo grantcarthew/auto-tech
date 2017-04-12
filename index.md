@@ -9,6 +9,10 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-04-13
+
+*   📰 [Artificial intelligence coming sooner than you think, experts say](http://www.abc.net.au/news/2017-04-13/artificial-intelligence-coming-sooner-than-you-think-experts-say/8440358)
+
 ## 2017-04-07
 
 *   📰 [Universal Basic Income - An Inevitable Future?](http://www.interquestgroup.com/iq-hub/blogs/2017/universal-basic-income-an-inevitable-future) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/63s20r/universal_basic_income_an_inevitable_future/)
