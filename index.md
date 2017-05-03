@@ -9,6 +9,10 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 2017-05-04
+
+*   📰 [San Francisco is considering a once unthinkable measure to offset the threat of job-killing robots](https://www.businessinsider.com.au/san-francisco-considers-robot-tax-jane-kim-2017-4?r=US&IR=T) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/68vs0x/san_francisco_is_considering_a_once_unthinkable/)
+
 ## 2017-04-23
 
 *   📰 [Velodyne Announces a Solid-State Lidar](http://spectrum.ieee.org/cars-that-think/transportation/sensors/velodyne-announces-a-solidstate-lidar) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/66z9wr/velodyne_announces_a_solidstate_lidar_solid_state/)
