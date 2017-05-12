@@ -11,6 +11,7 @@ As I come across information related to automating a currently human dominated f
 
 ## 2017-05-12
 
+*   📺 [Drone Uses AI and 11,500 Crashes to Learn How to Fly](http://spectrum.ieee.org/automaton/robotics/drones/drone-uses-ai-and-11500-crashes-to-learn-how-to-fly)
 *   📺 [Anyone can teach this MIT robot how to teach other robots](https://techcrunch.com/2017/05/10/anyone-can-teach-this-mit-robot-how-to-teach-other-robots/) - [Reddit Discussion](https://www.reddit.com/r/gadgets/comments/6adxqv/anyone_can_teach_this_mit_robot_how_to_teach/)
 
 ## 2017-05-04
