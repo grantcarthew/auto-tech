@@ -9,9 +9,14 @@ As I come across information related to automating a currently human dominated f
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 
+## 😉 Humorous
+
+*   📺 [The creator of SkyNet](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
+*   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
+*   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
+
 ## 2017-05-12
 
-*   😉 [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   📺 [Drone Uses AI and 11,500 Crashes to Learn How to Fly](http://spectrum.ieee.org/automaton/robotics/drones/drone-uses-ai-and-11500-crashes-to-learn-how-to-fly)
 *   📺 [Anyone can teach this MIT robot how to teach other robots](https://techcrunch.com/2017/05/10/anyone-can-teach-this-mit-robot-how-to-teach-other-robots/) - [Reddit Discussion](https://www.reddit.com/r/gadgets/comments/6adxqv/anyone_can_teach_this_mit_robot_how_to_teach/)
 
@@ -74,7 +79,6 @@ As I come across information related to automating a currently human dominated f
 
 *   📰 [Mark Cuban: Robots will ‘cause unemployment and we need to prepare for it’](http://www.cnbc.com/2017/02/20/mark-cuban-robots-unemployment-and-we-need-to-prepare-for-it.html) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/5v43s6/mark_cuban_robots_will_cause_unemployment_and_we/)
 *   📰 [What Happens When You Give Basic Income to the Poor? Canada Is About to Find Out](http://bigthink.com/natalie-shoemaker/canada-testing-a-system-where-it-gives-its-poorest-citizens-1320-a-month) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/5uz0ky/what_happens_when_you_give_basic_income_to_the/)
-*   😉 [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
 ## 2017-02-19
 
