@@ -15,6 +15,10 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
+## 2017-05-28
+
+*   📰 [World's first autonomous security vehicle with companion drone](http://newatlas.com/security-robot-with-surveillance-drone/49649/)
+
 ## 2017-05-12
 
 *   📺 [Drone Uses AI and 11,500 Crashes to Learn How to Fly](http://spectrum.ieee.org/automaton/robotics/drones/drone-uses-ai-and-11500-crashes-to-learn-how-to-fly)
