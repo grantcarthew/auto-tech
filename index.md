@@ -18,6 +18,7 @@ As I come across information related to automating a currently human dominated f
 ## 2017-05-28
 
 *   📰 [World's first autonomous security vehicle with companion drone](http://newatlas.com/security-robot-with-surveillance-drone/49649/)
+*   📰 [Reddit - Mark Zuckerberg just called for universal basic income](https://www.reddit.com/r/BasicIncome/comments/6dcav5/mark_zuckerberg_just_called_for_universal_basic/)
 
 ## 2017-05-12
 
