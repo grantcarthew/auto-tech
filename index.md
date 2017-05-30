@@ -18,7 +18,7 @@ As I come across information related to automating a currently human dominated f
 ## 2017-05-30
 
 *   📰 [Finland Has Finally Launched Its Universal Basic Income Experiment]() - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6e2xfo/finland_has_finally_launched_its_universal_basic/)
-*   📰 [FINLAND'S BASIC INCOME EXPERIMENT GIVES PEOPLE MONEY FOR BEING ALIVE](http://ewn.co.za/2017/05/17/finland-s-basic-income-experiment-is-already-making-people-feel-better-after-just-4-months)
+*   📰 [Finland's Basic Income Experiment Gives People Money for Being Alive](http://ewn.co.za/2017/05/17/finland-s-basic-income-experiment-is-already-making-people-feel-better-after-just-4-months)
 
 ## 2017-05-28
 
