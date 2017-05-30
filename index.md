@@ -15,6 +15,11 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
+## 2017-05-30
+
+*   📰 [Finland Has Finally Launched Its Universal Basic Income Experiment]() - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6e2xfo/finland_has_finally_launched_its_universal_basic/)
+*   📰 [FINLAND'S BASIC INCOME EXPERIMENT GIVES PEOPLE MONEY FOR BEING ALIVE](http://ewn.co.za/2017/05/17/finland-s-basic-income-experiment-is-already-making-people-feel-better-after-just-4-months)
+
 ## 2017-05-28
 
 *   📰 [World's first autonomous security vehicle with companion drone](http://newatlas.com/security-robot-with-surveillance-drone/49649/)
