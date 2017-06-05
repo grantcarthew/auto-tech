@@ -15,6 +15,10 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
+## 2017-06-05
+
+*   📰⚠️️[Rethinking Transportation 2020-2030](https://static1.squarespace.com/static/585c3439be65942f022bbf9b/t/591a2e4be6f2e1c13df930c5/1494888038959/RethinkX+Report_051517.pdf) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6f0mkr/a_detailed_study_claims_that_by_2030_95_of_miles/)
+
 ## 2017-05-30
 
 *   📰 [Finland Has Finally Launched Its Universal Basic Income Experiment]() - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6e2xfo/finland_has_finally_launched_its_universal_basic/)
