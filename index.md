@@ -5,6 +5,7 @@ As I come across information related to automating a currently human dominated f
 ## 📌 Pinned Links
 
 *   📺 [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+*   📺 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 *   🌏 [Basic Income Earth Network](http://basicincome.org/)
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
@@ -15,6 +16,11 @@ As I come across information related to automating a currently human dominated f
 *   📺 [The creator of SkyNet](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
+
+## 2017-05-16
+
+*   📰 [Hawaii becomes first state to begin evaluating a universal basic income](https://www.reddit.com/r/Futurology/comments/6hezyu/hawaii_becomes_first_state_to_begin_evaluating_a/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6hf284/hawaii_becomes_first_state_to_begin_evaluating_a/)
+*   📺 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk)
 
 ## 2017-05-30
 
