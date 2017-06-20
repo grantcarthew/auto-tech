@@ -17,7 +17,12 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
-## 2017-05-16
+## 2017-06-20
+
+*   📰 [How long will it take for your job to be automated?](http://www.bbc.com/capital/story/20170619-how-long-will-it-take-for-your-job-to-be-automated) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6i3xij/how_long_will_it_take_for_your_job_to_be/)
+*   📰 [400 Burger Per Hour Robot Will Put Teenagers Out Of Work](https://www.geek.com/tech/400-burger-per-hour-robot-will-put-teenagers-out-of-work-1703546/) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/6i0riv/400_burger_per_hour_robot_will_put_teenagers_out/)
+
+## 2017-06-16
 
 *   📰 [Hawaii becomes first state to begin evaluating a universal basic income](https://www.reddit.com/r/Futurology/comments/6hezyu/hawaii_becomes_first_state_to_begin_evaluating_a/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6hf284/hawaii_becomes_first_state_to_begin_evaluating_a/)
 *   📺 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk)
