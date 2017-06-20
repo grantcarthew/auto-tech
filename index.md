@@ -10,6 +10,7 @@ As I come across information related to automating a currently human dominated f
 *   🌏 [Basic Income Earth Network](http://basicincome.org/)
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [Rethinking Transportation 2020-2030](https://static1.squarespace.com/static/585c3439be65942f022bbf9b/t/591a2e4be6f2e1c13df930c5/1494888038959/RethinkX+Report_051517.pdf) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6f0mkr/a_detailed_study_claims_that_by_2030_95_of_miles/)
+*   📰 [How long will it take for your job to be automated?](http://www.bbc.com/capital/story/20170619-how-long-will-it-take-for-your-job-to-be-automated) - [Reddit Discussion]
 
 ## 😉 Humorous
 
