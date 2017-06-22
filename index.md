@@ -18,6 +18,12 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
+## 2017-06-23
+
+*   📰 [The Robot Apocalypse Has Already Started](https://www.geek.com/tech-science-3/the-robot-apocalypse-has-already-started-1704401/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6isuwt/the_robot_apocalypse_has_already_started_elon/)
+*   📰 [McDonald's hits all-time high as Wall Street cheers replacement of cashiers with kiosks](http://www.cnbc.com/2017/06/20/mcdonalds-hits-all-time-high-as-wall-street-cheers-replacement-of-cashiers-with-kiosks.html) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6iqhlw/mcdonalds_hits_alltime_high_as_wall_street_cheers/)
+*   📰 [Robots Are Eating Money Managers’ Lunch](https://www.bloomberg.com/news/articles/2017-06-20/robots-are-eating-money-managers-lunch) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/6idbdq/robots_are_eating_money_managers_lunch_a_wave_of/)
+
 ## 2017-06-20
 
 *   📰 [How long will it take for your job to be automated?](http://www.bbc.com/capital/story/20170619-how-long-will-it-take-for-your-job-to-be-automated) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6i3xij/how_long_will_it_take_for_your_job_to_be/)
