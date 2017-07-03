@@ -18,6 +18,10 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 
+## 2017-07-04
+
+*   📰 [Rise of the machines: How artificial intelligence will reshape our lives](http://www.abc.net.au/news/2017-07-03/how-artificial-intelligence-will-reshape-our-lives/8674576?section=business)
+
 ## 2017-06-23
 
 *   📰 [The Robot Apocalypse Has Already Started](https://www.geek.com/tech-science-3/the-robot-apocalypse-has-already-started-1704401/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6isuwt/the_robot_apocalypse_has_already_started_elon/)
