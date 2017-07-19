@@ -22,7 +22,7 @@ As I come across information related to automating a currently human dominated f
 
 ## 2017-07-19
 
-*   [Is Guaranteed Income for All the Answer to Joblessness and Poverty?](https://www.scientificamerican.com/article/is-guaranteed-income-for-all-the-answer-to-joblessness-and-poverty/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6o07mf/is_guaranteed_income_for_all_the_answer_to/)
+*   📰 [Is Guaranteed Income for All the Answer to Joblessness and Poverty?](https://www.scientificamerican.com/article/is-guaranteed-income-for-all-the-answer-to-joblessness-and-poverty/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6o07mf/is_guaranteed_income_for_all_the_answer_to/)
 
 ## 2017-07-04/5 ABC Series
 
