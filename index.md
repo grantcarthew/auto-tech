@@ -18,8 +18,13 @@ As I come across information related to automating a currently human dominated f
 *   📺 [The creator of SkyNet](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
+*   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 
-## 2017-07-04/5/6 ABC Series
+## 2017-07-19
+
+*   [Is Guaranteed Income for All the Answer to Joblessness and Poverty?](https://www.scientificamerican.com/article/is-guaranteed-income-for-all-the-answer-to-joblessness-and-poverty/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6o07mf/is_guaranteed_income_for_all_the_answer_to/)
+
+## 2017-07-04/5 ABC Series
 
 *   📰 [Rise of the machines: How artificial intelligence will reshape our lives](http://www.abc.net.au/news/2017-07-03/how-artificial-intelligence-will-reshape-our-lives/8674576?section=business)
 *   📰 [Rise of the machines: Is a universal basic income the answer for mass unemployment?](http://www.abc.net.au/news/2017-07-04/universal-basic-income-money-for-nothing/8676834)
