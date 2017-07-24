@@ -20,6 +20,13 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 
+## 2017-07-24
+
+*   📰 [Billionaire Mark Cuban: The Rise of Technology Will Cause a Lot of Unemployment](https://www.thestreet.com/story/14239172/1/billionaire-mark-cuban-china-is-kicking-our-ass-with-artificial-intelligence.html) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6p17v0/billionaire_mark_cuban_the_rise_of_technology/)
+*   📰 [A RECYCLING ROBOT NAMED CLARKE COULD BE THE KEY TO REDUCING WASTE](https://www.digitaltrends.com/cool-tech/clarke-recycling-robot/) - [Reddit Discussion](https://www.reddit.com/r/gadgets/comments/6p33iw/a_recycling_robot_named_clarke_could_be_the_key/)
+*   📰 [Let the robots take our jobs and pay for a universal basic income](https://qz.com/1034358/ubi-and-automation-could-be-the-symbiotic-solution-for-displaced-workers/) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/6oudik/let_the_robots_take_our_jobs_and_pay_for_a/)
+
+
 ## 2017-07-19
 
 *   📰 [Is Guaranteed Income for All the Answer to Joblessness and Poverty?](https://www.scientificamerican.com/article/is-guaranteed-income-for-all-the-answer-to-joblessness-and-poverty/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6o07mf/is_guaranteed_income_for_all_the_answer_to/)
