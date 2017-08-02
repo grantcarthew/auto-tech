@@ -4,7 +4,7 @@ Contact me on [Twitter](https://twitter.com/GrantCarthew)
 
 My interest often results in discussions about how automation is going to change the world. This webpage is a record of documents and media I discover related to Automation and [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income).
 
-For a summary of the subjects see the Pinned Links below.
+For a summary of the subjects see the 📌 Pinned Links below.
 
 Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income):
 > So then if a given manufacturer automates his plant and dismisses his labor force and they have to operate on a very much diminished income, (say some sort of dole), the manufacturer suddenly finds that the public does not have the wherewithal to buy his products. And therefore he has invested in this expensive automative machinery to no purpose. And therefore obviously the public has to be provided with the means of purchasing what the machines produce.
