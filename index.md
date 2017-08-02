@@ -2,11 +2,22 @@ As I come across information related to automating a currently human dominated f
 
 [Who am I?](https://github.com/grantcarthew)
 
+Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding Universal Basic Income:
+> So then if a given manufacturer automates his plant and dismisses his labor force and they have to operate on a very much diminished income, (say some sort of dole), the manufacturer suddenly finds that the public does not have the wherewithal to buy his products. And therefore he has invested in this expensive automative machinery to no purpose. And therefore obviously the public has to be provided with the means of purchasing what the machines produce.
+
+> We have a hang-up and that hang-up is that money is real, and that people ought to suffer in order to get it. But the whole point of the machine is to relieve you of that suffering.
+
+> So what we have to find out how to do is to change the psychological attitude to money and to wealth and further more to pleasure and further more to the nature of work. And this is a formidable problem.
+
+[Read the whole article](https://steemit.com/basicincome/@scottsantens/who-pays-for-universal-basic-income-philosopher-alan-watts-answers-the-big-question).
+
+
 ## 📌 Pinned Links
 
 *   📺 [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 *   📺 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
+*   📰 [Who pays for universal basic income? Philosopher Alan Watts answers the BIG question.](https://steemit.com/basicincome/@scottsantens/who-pays-for-universal-basic-income-philosopher-alan-watts-answers-the-big-question) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6qxibp/who_pays_for_universal_basic_income_philosopher/)
 *   🌏 [Basic Income Earth Network](http://basicincome.org/)
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [Rethinking Transportation 2020-2030](https://static1.squarespace.com/static/585c3439be65942f022bbf9b/t/591a2e4be6f2e1c13df930c5/1494888038959/RethinkX+Report_051517.pdf) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6f0mkr/a_detailed_study_claims_that_by_2030_95_of_miles/)
@@ -19,6 +30,13 @@ As I come across information related to automating a currently human dominated f
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
+
+## 2017-08-02
+
+*   📰 [Elon Musk: Automation Will Force Governments to Introduce Universal Basic Income](https://futurism.com/elon-musk-automation-will-force-governments-to-introduce-universal-basic-income/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6qxibp/who_pays_for_universal_basic_income_philosopher/)
+*   📰 [Who pays for universal basic income? Philosopher Alan Watts answers the BIG question.](https://steemit.com/basicincome/@scottsantens/who-pays-for-universal-basic-income-philosopher-alan-watts-answers-the-big-question) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6qxibp/who_pays_for_universal_basic_income_philosopher/)
+
+
 
 ## 2017-07-24
 
