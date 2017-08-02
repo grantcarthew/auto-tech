@@ -53,10 +53,11 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 
 *   📰 [Is Guaranteed Income for All the Answer to Joblessness and Poverty?](https://www.scientificamerican.com/article/is-guaranteed-income-for-all-the-answer-to-joblessness-and-poverty/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6o07mf/is_guaranteed_income_for_all_the_answer_to/)
 
-## 2017-07-04/5 ABC Series
+## 2017-07-04/5/6 ABC Series
 
 *   📰 [Rise of the machines: How artificial intelligence will reshape our lives](http://www.abc.net.au/news/2017-07-03/how-artificial-intelligence-will-reshape-our-lives/8674576?section=business)
 *   📰 [Rise of the machines: Is a universal basic income the answer for mass unemployment?](http://www.abc.net.au/news/2017-07-04/universal-basic-income-money-for-nothing/8676834)
+*   📰 [Rise of the machines: What jobs will survive as robots move into the workplace?](http://www.abc.net.au/news/2017-07-06/what-jobs-will-survive-as-robots-move-into-the-workplace/8685894)
 
 ## 2017-06-23
 
