@@ -1,8 +1,11 @@
-As I come across information related to automating a currently human dominated field I add the links of interest below in chronological order. I am also adding links related to [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income) which is the current approch to handle the loss of working class jobs due to automation.
+My name is [Grant Carthew](https://github.com/grantcarthew) and I have a keen interest in technology.
+Contact me on [Twitter](https://twitter.com/GrantCarthew)
 
-[Who am I?](https://github.com/grantcarthew)
+Because of my interest in technology the discussion about how automation is going to change the world comes up often. This webpage is a record of documents and media I discover related to Automation and [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income).
 
-Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding Universal Basic Income:
+For a summary of the subjects see the Pinned Links below.
+
+Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income):
 > So then if a given manufacturer automates his plant and dismisses his labor force and they have to operate on a very much diminished income, (say some sort of dole), the manufacturer suddenly finds that the public does not have the wherewithal to buy his products. And therefore he has invested in this expensive automative machinery to no purpose. And therefore obviously the public has to be provided with the means of purchasing what the machines produce.
 
 > We have a hang-up and that hang-up is that money is real, and that people ought to suffer in order to get it. But the whole point of the machine is to relieve you of that suffering.
