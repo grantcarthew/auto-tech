@@ -1,7 +1,5 @@
 My name is [Grant Carthew](https://github.com/grantcarthew) and I have a keen interest in technology.
 
-<a href="https://twitter.com/GrantCarthew" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Contact me on [Twitter](https://twitter.com/GrantCarthew)
 
 Because of my interest in technology the discussion about how automation is going to change the world comes up often. This webpage is a record of documents and media I discover related to Automation and [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income).
