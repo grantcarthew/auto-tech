@@ -39,7 +39,8 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 
 *   📰 [Elon Musk: Automation Will Force Governments to Introduce Universal Basic Income](https://futurism.com/elon-musk-automation-will-force-governments-to-introduce-universal-basic-income/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6qxibp/who_pays_for_universal_basic_income_philosopher/)
 *   📰 [Who pays for universal basic income? Philosopher Alan Watts answers the BIG question.](https://steemit.com/basicincome/@scottsantens/who-pays-for-universal-basic-income-philosopher-alan-watts-answers-the-big-question) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6qxibp/who_pays_for_universal_basic_income_philosopher/)
-
+*   📰 [WA test drives Australia’s first driverless bus](http://www.perthnow.com.au/news/western-australia/wa-test-drives-australias-first-driverless-bus/news-story/67414213fe56139bd2aa06c4a23e8ed3)
+*   📰 [Driverless bus to be trialled at Sydney Olympic Park](http://www.smh.com.au/nsw/driverless-bus-to-be-trialled-at-sydney-olympic-park-20170802-gxnp4e.html)
 
 
 ## 2017-07-24
