@@ -2,7 +2,7 @@ My name is [Grant Carthew](https://github.com/grantcarthew) and I have a keen in
 
 Contact me on [Twitter](https://twitter.com/GrantCarthew)
 
-Because of my interest in technology the discussion about how automation is going to change the world comes up often. This webpage is a record of documents and media I discover related to Automation and [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income).
+My interest often results in discussions about how automation is going to change the world. This webpage is a record of documents and media I discover related to Automation and [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income).
 
 For a summary of the subjects see the Pinned Links below.
 
