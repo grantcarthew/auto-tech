@@ -36,6 +36,10 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 
+## 2017-08-09
+
+*   📰 [Australia must embrace AI revolution with automation set to affect every job, report says](http://www.abc.net.au/news/2017-08-08/australia-must-embrace-ai-revolution-alphabeta-report/8774044)
+
 ## 2017-08-02
 
 *   📰 [Elon Musk: Automation Will Force Governments to Introduce Universal Basic Income](https://futurism.com/elon-musk-automation-will-force-governments-to-introduce-universal-basic-income/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6qxibp/who_pays_for_universal_basic_income_philosopher/)
