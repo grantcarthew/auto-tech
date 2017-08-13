@@ -36,6 +36,10 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 
+## 2017-08-14
+
+*   📰 [Artificial Intelligence Is Likely to Make a Career in Finance, Medicine or Law a Lot Less Lucrative](https://www.entrepreneur.com/article/295827)
+
 ## 2017-08-09
 
 *   📰 [Australia must embrace AI revolution with automation set to affect every job, report says](http://www.abc.net.au/news/2017-08-08/australia-must-embrace-ai-revolution-alphabeta-report/8774044)
