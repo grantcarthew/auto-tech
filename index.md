@@ -35,6 +35,11 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
 *   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
+*   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
+
+## 2017-08-18
+
+*   📰 [Richard Branson Is the Latest Entrepreneur to Show Support for Universal Basic Income](https://www.inc.com/kevin-j-ryan/richard-branson-supports-universal-basic-income.html) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6tx8p8/richard_branson_is_the_latest_entrepreneur_to/)
 
 ## 2017-08-14
 
