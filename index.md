@@ -37,6 +37,11 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 *   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
 
+## 2017-08-29
+
+*   📰 [Automation in the pot industry is picking up with unforeseen speed](https://thenextweb.com/contributors/2017/08/27/seed-sale-unforeseen-speed-automation-pot-industry/#.tnw_Bo23jQyv) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6wglzc/automation_in_the_pot_industry_is_picking_up_with/)
+*   📰 [Silicon Valley billionaire Stewart Butterfield voices support for universal basic income](http://www.independent.co.uk/news/business/news/stewart-butterfield-universal-basic-income-silicon-valley-billionaire-slack-a7898446.html) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6uimrb/silicon_valley_billionaire_stewart_butterfield/)
+
 ## 2017-08-18
 
 *   📰 [Richard Branson Is the Latest Entrepreneur to Show Support for Universal Basic Income](https://www.inc.com/kevin-j-ryan/richard-branson-supports-universal-basic-income.html) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6tx8p8/richard_branson_is_the_latest_entrepreneur_to/)
