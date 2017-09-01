@@ -37,6 +37,10 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 *   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
 
+## 2017-09-01
+
+*   📰 [How an Angry Candy Man Revolutionized the Modern Sushi Industry](https://www.bloombergquint.com/business/2017/08/31/billionaire-birla-is-said-to-evaluate-constellium-aleris-bids)
+
 ## 2017-08-29
 
 *   📰 [Automation in the pot industry is picking up with unforeseen speed](https://thenextweb.com/contributors/2017/08/27/seed-sale-unforeseen-speed-automation-pot-industry/#.tnw_Bo23jQyv) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6wglzc/automation_in_the_pot_industry_is_picking_up_with/)
