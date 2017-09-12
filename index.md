@@ -37,6 +37,12 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 *   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
 
+## 2017-09-13
+
+*   📰 [Universal basic income may be adopted in Scotland providing a weekly cash payment for life](http://www.independent.co.uk/news/uk/home-news/universal-basic-income-scotland-week-cash-payment-life-nicola-sturgeon-first-minister-snp-a7934131.html) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6yn5v2/universal_basic_income_may_be_adopted_in_scotland/)
+*   📰 [Universal basic income plan enjoys huge level of support, poll finds](https://www.thelondoneconomic.com/news/universal-basic-income-plan-enjoys-huge-level-support-poll-finds/11/09/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6zkha9/universal_basic_income_plan_enjoys_huge_level_of/)
+*   📰 [GM and Cruise announce first mass-production self-driving car](https://techcrunch.com/2017/09/11/gm-and-cruise-announce-first-mass-production-self-driving-car/) - [Reddit Discussion](https://www.reddit.com/r/tech/comments/6zixhq/gm_and_cruise_announce_first_massproduction/)
+
 ## 2017-09-01
 
 *   📰 [How an Angry Candy Man Revolutionized the Modern Sushi Industry](https://www.bloombergquint.com/business/2017/08/31/billionaire-birla-is-said-to-evaluate-constellium-aleris-bids)
