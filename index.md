@@ -39,6 +39,7 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 
 ## 2017-09-13
 
+*   📰 [Japan trials driverless cars in bid to keep rural elderly on the move](https://www.reuters.com/article/us-japan-elderly-selfdriving/japan-trials-driverless-cars-in-bid-to-keep-rural-elderly-on-the-move-idUSKCN1BN0UQ) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6zs1y8/japan_trials_driverless_cars_in_bid_to_keep_rural/)
 *   📰 [Universal basic income may be adopted in Scotland providing a weekly cash payment for life](http://www.independent.co.uk/news/uk/home-news/universal-basic-income-scotland-week-cash-payment-life-nicola-sturgeon-first-minister-snp-a7934131.html) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6yn5v2/universal_basic_income_may_be_adopted_in_scotland/)
 *   📰 [Universal basic income plan enjoys huge level of support, poll finds](https://www.thelondoneconomic.com/news/universal-basic-income-plan-enjoys-huge-level-support-poll-finds/11/09/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6zkha9/universal_basic_income_plan_enjoys_huge_level_of/)
 *   📰 [GM and Cruise announce first mass-production self-driving car](https://techcrunch.com/2017/09/11/gm-and-cruise-announce-first-mass-production-self-driving-car/) - [Reddit Discussion](https://www.reddit.com/r/tech/comments/6zixhq/gm_and_cruise_announce_first_massproduction/)
