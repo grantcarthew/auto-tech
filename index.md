@@ -40,6 +40,7 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 ## 2017-09-26
 
 *   📰 [Some brave soul volunteered for a completely robotic dental surgery](https://www.engadget.com/2017/09/22/brave-volunteer-robot-dental-surgery/) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/71thmr/some_brave_soul_volunteered_for_a_completely/)
+*   📰 [A World Without Work](https://www.philosophytalk.org/blog/world-without-work) - [Reddit Discussion](https://www.reddit.com/r/philosophy/comments/72dayd/technology_is_eliminating_the_need_for_human/)
 
 ## 2017-09-13
 
