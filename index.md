@@ -37,6 +37,12 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 *   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
 
+## 2017-10-25
+
+*   📰 [Richard Branson discusses space travel, AI, and his friendship with Obama](https://www.businessinsider.com.au/richard-branson-interview-on-the-nordics-ikea-and-obama-v2-2017-10) - [Reddit Discussion](https://www.reddit.com/r/TrueReddit/comments/75pufo/richard_branson_basic_income_is_going_to_be_all/)
+*   📰 [Capitalism is ending because it has made itself obsolete](http://www.independent.co.uk/news/world/europe/yannis-varoufakis-capitalism-ending-obsolete-former-greek-finance-minister-artificial-intelligence-a8006826.html) - [Reddit Discussion](https://www.reddit.com/r/worldnews/comments/776av7/capitalism_is_ending_because_it_has_made_itself/)
+*   📰 [Next Year, a Californian City Will Launch the First Basic Income Experiment in the U.S.](https://futurism.com/next-year-a-californian-city-will-launch-the-first-basic-income-experiment-in-the-u-s/) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/77mn9p/next_year_a_californian_city_will_launch_the/)
+
 ## 2017-09-26
 
 *   📰 [Some brave soul volunteered for a completely robotic dental surgery](https://www.engadget.com/2017/09/22/brave-volunteer-robot-dental-surgery/) - [Reddit Discussion](https://www.reddit.com/r/technology/comments/71thmr/some_brave_soul_volunteered_for_a_completely/)
