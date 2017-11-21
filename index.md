@@ -39,9 +39,9 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 
 ## 2017-11-21
 
-*   [A basic income for everyone? Yes, Finland shows it really can work](https://www.theguardian.com/commentisfree/2017/oct/31/finland-universal-basic-income) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/79uq55/a_basic_income_for_everyone_yes_finland_shows_it/)
-*   [Waymo now testing its self-driving cars on public roads with no one at the wheel](https://techcrunch.com/2017/11/07/waymo-now-testing-its-self-driving-cars-on-public-roads-with-no-one-at-the-wheel/)
-*   [I was on the self-driving bus that crashed in Vegas. Here’s what really happened](https://www.digitaltrends.com/cars/self-driving-bus-crash-vegas-account/)
+*   📰 [A basic income for everyone? Yes, Finland shows it really can work](https://www.theguardian.com/commentisfree/2017/oct/31/finland-universal-basic-income) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/79uq55/a_basic_income_for_everyone_yes_finland_shows_it/)
+*   📰 [Waymo now testing its self-driving cars on public roads with no one at the wheel](https://techcrunch.com/2017/11/07/waymo-now-testing-its-self-driving-cars-on-public-roads-with-no-one-at-the-wheel/)
+*   📰 [I was on the self-driving bus that crashed in Vegas. Here’s what really happened](https://www.digitaltrends.com/cars/self-driving-bus-crash-vegas-account/)
 
 ## 2017-10-25
 
