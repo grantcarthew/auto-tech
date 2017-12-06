@@ -37,6 +37,11 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 *   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
 
+## 2017-12-06
+
+*   📰 [Uber-style driverless cars set for Perth as part of international trial](http://mobile.abc.net.au/news/2017-11-29/uber-style-driverless-cars-to-be-tested-in-perth-in-global-trial/9207120?pfmredir=sm)
+*   📰 [Canadian province trials basic income for thousands of residents](http://www.independent.co.uk/news/world/americas/canada-universal-basic-income-ontario-trial-citizens-residents-poverty-unemployment-benefits-a8082576.html) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/7gghyi/canadian_province_trials_basic_income_for/)
+
 ## 2017-11-21
 
 *   📰 [A basic income for everyone? Yes, Finland shows it really can work](https://www.theguardian.com/commentisfree/2017/oct/31/finland-universal-basic-income) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/79uq55/a_basic_income_for_everyone_yes_finland_shows_it/)
