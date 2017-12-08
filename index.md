@@ -22,6 +22,7 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   📺 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk)
 *   📰 [A warning from Bill Gates, Elon Musk, and Stephen Hawking](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.qfp6rcpux)
 *   📰 [Who pays for universal basic income? Philosopher Alan Watts answers the BIG question.](https://steemit.com/basicincome/@scottsantens/who-pays-for-universal-basic-income-philosopher-alan-watts-answers-the-big-question) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/6qxibp/who_pays_for_universal_basic_income_philosopher/)
+*   📺 [Universal Basic Income Explained – Free Money for Everybody? UBI](https://www.youtube.com/watch?v=kl39KHS07Xc) - [Reddit Discussion](https://www.reddit.com/r/Documentaries/comments/7i6p1x/kurzgesagt_universal_basic_income_explained_2017/)
 *   🌏 [Basic Income Earth Network](http://basicincome.org/)
 *   📺 [Boston Dynamics YouTube Channel](https://www.youtube.com/user/BostonDynamics)
 *   📰 [Rethinking Transportation 2020-2030](https://static1.squarespace.com/static/585c3439be65942f022bbf9b/t/591a2e4be6f2e1c13df930c5/1494888038959/RethinkX+Report_051517.pdf) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/6f0mkr/a_detailed_study_claims_that_by_2030_95_of_miles/)
