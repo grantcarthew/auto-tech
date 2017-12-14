@@ -38,6 +38,10 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
 *   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
 
+## 2017-12-14
+
+*   📰 [The Great American Share](https://spectacle.com/001/sam-altman-interview-universal-basic-income/)
+
 ## 2017-12-06
 
 *   📰 [Uber-style driverless cars set for Perth as part of international trial](http://mobile.abc.net.au/news/2017-11-29/uber-style-driverless-cars-to-be-tested-in-perth-in-global-trial/9207120?pfmredir=sm)
