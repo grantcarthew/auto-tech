@@ -30,13 +30,9 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   📰 [AI Progress Measurement](https://www.eff.org/ai/metrics)
 *   🤔 [Could a robot do your job?](http://www.abc.net.au/news/2017-08-08/could-a-robot-do-your-job-artificial-intelligence/8782174)
 
-## 😉 Humorous
+## 2017-12-18
 
-*   📺 [The creator of SkyNet](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
-*   🖼️ [Automated Parenting](https://i.imgur.com/nueBdxi.gifv)
-*   🖼️ [Robots will replace our jobs forever](http://i.imgur.com/K77ukhu.gif) - [Reddit Discussion](https://www.reddit.com/r/funny/comments/5v3y2h/robots_will_replace_our_jobs_forever/)
-*   🖼️ [Our D.C. office building got a security robot. It drowned itself.](https://twitter.com/bilalfarooqui/status/887025375754166272/photo/1)
-*   🖼️ [Amazon's latest robotic warehouse workers in action!](https://www.reddit.com/r/funny/comments/6tqbi0/amazons_latest_robotic_warehouse_workers_in_action/)
+*   📰 [A robot can print this $64,000 house in as few as 8 hours](http://www.businessinsider.com/3d-printed-house-robot-passivdom-2017-4//?r=AU&IR=T#passivdoms-smallest-model-measures-410-square-feet-and-ranges-from-64000-to-97000-designer-maria-sorokina-told-business-insider-1) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/7jzo1j/a_robot_can_print_this_64000_house_in_as_few_as_8/)
 
 ## 2017-12-14
 
