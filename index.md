@@ -30,6 +30,13 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   📰 [AI Progress Measurement](https://www.eff.org/ai/metrics)
 *   🤔 [Could a robot do your job?](http://www.abc.net.au/news/2017-08-08/could-a-robot-do-your-job-artificial-intelligence/8782174)
 
+## 2018-01-11
+
+*   📰 [Self-Driving Cars in a City Like No Other](https://news.voyage.auto/self-driving-cars-in-a-city-like-no-other-c9b38807a9a6) - [Hacker News Discussion](https://news.ycombinator.com/item?id=16116265)
+*   📰 [Fast-food CEO says 'it just makes sense' to consider replacing cashiers with machines as minimum wages rise](https://www.businessinsider.com.au/jack-in-the-box-ceo-reconsiders-automation-kiosks-2018-1?r=US&IR=T) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/7p9krx/fastfood_ceo_says_it_just_makes_sense_to_consider/)
+*   📰 [Universal Basic Income: Why Elon Musk Thinks It May Be The Future](http://www.ibtimes.com/universal-basic-income-why-elon-musk-thinks-it-may-be-future-2636105) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/7osy75/universal_basic_income_why_elon_musk_thinks_it/)
+*   📰 [Breakingviews - Italy will go back to its old ways in 2018](https://www.reuters.com/article/us-italy-election-breakingviews/breakingviews-italy-will-go-back-to-its-old-ways-in-2018-idUSKBN1ER0Q5) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/7noh9l/italy_will_go_back_to_its_old_ways_in_2018_5star/)
+
 ## 2017-12-18
 
 *   📰 [A robot can print this $64,000 house in as few as 8 hours](http://www.businessinsider.com/3d-printed-house-robot-passivdom-2017-4//?r=AU&IR=T#passivdoms-smallest-model-measures-410-square-feet-and-ranges-from-64000-to-97000-designer-maria-sorokina-told-business-insider-1) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/7jzo1j/a_robot_can_print_this_64000_house_in_as_few_as_8/)
