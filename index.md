@@ -30,6 +30,13 @@ Quotes from [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) regarding [Un
 *   📰 [AI Progress Measurement](https://www.eff.org/ai/metrics)
 *   🤔 [Could a robot do your job?](http://www.abc.net.au/news/2017-08-08/could-a-robot-do-your-job-artificial-intelligence/8782174)
 
+## 2018-01-24
+
+*   📰 [Google CEO Sundar Pichai compares impact of AI to electricity and fire](https://www.theverge.com/2018/1/19/16911354/google-ceo-sundar-pichai-ai-artificial-intelligence-fire-electricity-jobs-cancer) - [Reddit Discussion](https://www.reddit.com/r/google/comments/7rmd2v/google_ceo_sundar_pichai_compares_impact_of_ai_to/)
+*   📰 [Conversational Presentation of Why Automation is Different This Time](https://www.lesserwrong.com/posts/HtikjQJB7adNZSLFf/conversational-presentation-of-why-automation-is-different) - [Reddit Discussion](https://www.reddit.com/r/Futurology/comments/7rhwk3/why_automation_is_different_this_time_there_is_no/)
+*   📰 [Basic income experts predict an important milestone for free money in 2018](http://www.businessinsider.com/basic-income-experts-predict-important-milestone-2018-1//?r=AU&IR=T) - [Reddit Discussion](https://www.reddit.com/r/politics/comments/7qr5xj/basic_income_experts_predict_an_important/)
+*   📰 [Movement for universal basic income picks up steam in Taiwan](http://focustaiwan.tw/news/aftr/201801120005.aspx) - [Reddit Discussion](https://www.reddit.com/r/BasicIncome/comments/7pufpz/movement_for_universal_basic_income_picks_up/)
+
 ## 2018-01-11
 
 *   📰 [Self-Driving Cars in a City Like No Other](https://news.voyage.auto/self-driving-cars-in-a-city-like-no-other-c9b38807a9a6) - [Hacker News Discussion](https://news.ycombinator.com/item?id=16116265)
