@@ -1,3 +1,5 @@
+IMPORTANT: Automation and UBI seem to be well in the main media now so this page is no longer being updated. I am leaving it here for historical reasons.
+
 My name is [Grant Carthew](https://github.com/grantcarthew) and I have a keen interest in technology.
 
 Contact me on [Twitter](https://twitter.com/GrantCarthew)
